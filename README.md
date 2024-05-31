@@ -3,7 +3,7 @@
 This is the repository for **fina-blazor** application, developed as part of the FullStack Journey offered by balta.io.
 
 
-## Stack utilizada
+## Stack Used
 
 ### Backend:
  - .NET C#: Utilized with Minimal APIs to build the backend of the application.
