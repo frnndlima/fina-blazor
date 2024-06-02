@@ -1,7 +1,6 @@
 # fina-blazor
 
-This is the repository for **fina-blazor** application, developed as part of the FullStack Journey offered by balta.io.
-
+This is the repository for **fina-blazor** application
 
 ## Stack Used
 
